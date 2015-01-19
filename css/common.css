@@ -1,0 +1,21 @@
+.big-font{
+	font-size: 120%;
+	/*line-height: 2;*/
+	font-weight: bolder;
+}
+.p-style-1{
+	text-indent: 38px;
+	color: #666;
+	font-size: 16px;
+	line-height: 2;
+}
+.blue{
+	color: #036eb8;
+}
+.format-1{
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 2;
+	text-indent: 38px;
+	padding: 10px 0;
+}
