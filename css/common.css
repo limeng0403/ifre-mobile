@@ -1,3 +1,6 @@
+body{
+	padding: 10px 0;
+}
 .big-font{
 	font-size: 120%;
 	/*line-height: 2;*/
@@ -18,4 +21,7 @@
 	line-height: 2;
 	text-indent: 38px;
 	padding: 10px 0;
+}
+.blue{
+	color: #036eb8;
 }
